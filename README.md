@@ -6,7 +6,7 @@ Add [ember-template-lint](https://github.com/rwjblue/ember-template-lint) messag
 
 ## Installation
 
-To install the addon either find `linter-ember-template` in the "Packages" tab or run
+To install the addon either find `linter-ember-template` in the "Install" tab of the settings panel or run
 
 ```
 apm install linter-eslint
